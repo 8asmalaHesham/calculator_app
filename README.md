@@ -1,4 +1,4 @@
-# depi_flutter
+# A simple Calculator App
 
 A new Flutter project.
 
